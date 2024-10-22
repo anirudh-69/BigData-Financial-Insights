@@ -2,7 +2,7 @@ Predicting Financial Price Movements: A Robust Java-Python Hybrid System with Mu
 
 
 Abstract
-This paper outlines a comprehensive system for predicting 6inancial market movements using real-time data ingestion, multi-factor analysis, and machine learning. The solution leverages a hybrid system, integrating a Java-based real-time trading core with Python for data analysis and prediction modeling. With the use of Ka6ka for asynchronous communication and real-time data streaming, the system handles both real-time and batch processing, ultimately aiming for near 99.9% prediction accuracy.
+This paper outlines a comprehensive system for predicting financial market movements using real-time data ingestion, multi-factor analysis, and machine learning. The solution leverages a hybrid system, integrating a Java-based real-time trading core with Python for data analysis and prediction modeling. With the use of Ka6ka for asynchronous communication and real-time data streaming, the system handles both real-time and batch processing, ultimately aiming for near 99.9% prediction accuracy.
 
 1. Introduction
 
